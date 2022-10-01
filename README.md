@@ -20,6 +20,8 @@ To get started, first make sure that you're in the correct folder.
 3. To move _into_ one of the folders listed, type `cd filename`. To move _out of_ the folder you're in, type `cd ..`
 4. Once you're in the folder that contains your react app, type `npm start` and wait for the server to spin up  
 
+![Walkthrough of how to start the React app](https://github.com/s-abdale/wit-my-portfolio/blob/main/public/starter-walkthrough.gif)
+
 ## 👉🏽 Next steps  
 
 Your task is to create a multi-page website based on [this](https://www.figma.com/file/ysStCjixdjRBfW7wkSrFw2/WiT-W3D3?node-id=0%3A1) design in Figma.   
