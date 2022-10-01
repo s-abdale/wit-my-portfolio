@@ -1,4 +1,46 @@
-# Getting Started with Create React App
+
+# Coding your React Portfolio
+
+Hello WiT team 👋🏽 This repository has the starter code from the React website that we started coding in Week 3 Day 3's lecture.  
+
+## 🧢 Recap
+
+In our **src** folder, we have done the following:
+1. Created a **Home** page
+2. Created a **Header** comopnent
+3. Implemented routing by adding a **link** inside our Header. (Similar to how we used an < a > tag to switch between pages in the HTML demo)  
+
+We also added 'react-router-dom' in **package.json** to enable the use of routing. 📹 Check out the lecture recording for a detailed walkthrough.  
+
+## 🖥 Starting your server:
+
+To get started, first make sure that you're in the correct folder.   
+1. Start off by typing `pwd` in your terminal. This will show you where you currently are
+2. If you're not in the correct folder, type `ls` to see the contents of the file you're in
+3. To move _into_ one of the folders listed, type `cd filename`. To move _out of_ the folder you're in, type `cd ..`
+4. Once you're in the folder that contains your react app, type `npm start` and wait for the server to spin up  
+
+## 👉🏽 Next steps  
+
+Your task is to create a multi-page website based on [this](https://www.figma.com/file/ysStCjixdjRBfW7wkSrFw2/WiT-W3D3?node-id=0%3A1) design in Figma.   
+
+The requirements are as follows:
+- The dimensions of the **home page** and **header** _must_ match the Figma design requirements (general layout, margins, padding, width, height)
+- You can use any image on the home page
+- Create a **footer** the same way that we created the header (check the lecture recording 📹)
+- Create an **About me** page. There are no contstraints for this page so have fun with it 🎨 add anything that you want to this page, just _don't leave it empty!_ 🔗 Be sure to add a link to this page in the header
+- Enjoying coding in React? If you want to continue creating, make another page, perhaps a portfolio page or a list of projects that you want to work on. 🔗 Be sure to add a link to this page in the header
+
+## 🚨 Deadline
+Spend the weekend coding this site, and send me a screenshot on Slack or via email before **Monday's** lecture. I'm looking forward to seeing your creativity!  
+  
+
+
+_See below for the React App README. This includes information on how to start your app, and helpful links to learn more about React_
+
+***
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
